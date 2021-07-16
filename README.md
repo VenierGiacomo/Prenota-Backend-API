@@ -11,10 +11,6 @@ https://user-images.githubusercontent.com/86734894/125934035-739e674f-2960-4e79-
 - More than 40.000€ worth of service booked through the platform per month
 - More than 5000+ users
 
-## Links to the other parts of the project:
-- [User facing mobile App]()
-- [Progessive Web Application](https://github.com/VenierGiacomo/Prenota-PWA)
-- [Business facing mobile App]()
 
 ## Brief repository summary  
 This repository is the REST API part of the project.   
@@ -24,6 +20,13 @@ The API is built using Django + Django Rest Framework.
 - It uses Pusher as Socket service
 - It uses OneSignal as Push Notification service
 - It uses SMTP to send automated emails to users
+
+
+## Links to the other parts of the project:
+- [User facing mobile App]()
+- [Progessive Web Application](https://github.com/VenierGiacomo/Prenota-PWA)
+- [Business facing mobile App]()
+
 
 ## About the project
 Through our mobile apps ([iOS](https://apps.apple.com/app/id1523525291) and [Android](https://play.google.com/store/apps/details?id=io.prenota.client)) and our [website](https://prenota.cc), users can book and pay services in their city in a few seconds.
