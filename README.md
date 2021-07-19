@@ -3,7 +3,7 @@
 # Prenota - Online booking and payments for local services.
 ## Backend API (Django Rest Framework)
 
-https://user-images.githubusercontent.com/86734894/125934035-739e674f-2960-4e79-b235-a861593c0616.mov
+https://user-images.githubusercontent.com/86734894/126119937-b3e5fc76-87b6-4f98-8876-8f49f9888dba.MOV
 
 
 - A complete 2 minutes overview of the project with English comentary can be found [here](https://www.youtube.com/watch?v=mReddWSSp-A).
