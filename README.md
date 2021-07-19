@@ -25,7 +25,7 @@ The API is built using Django + Django Rest Framework.
 ## Links to the other parts of the project:
 - [User facing mobile App](https://github.com/VenierGiacomo/Prenota-User-Mobile-App)
 - [Progessive Web Application](https://github.com/VenierGiacomo/Prenota-PWA)
-- [Business facing mobile App]()
+- [Business facing mobile App](https://github.com/VenierGiacomo/Prenota-Business-Mobile-App/)
 
 
 ## About the project
